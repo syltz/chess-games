@@ -1,0 +1,16 @@
+[Event "www.ChessWorld.net server game"] 
+[Site "www.ChessWorld.net "]
+[Date "2015.07.26"]
+[Round "NA"]
+[White "mahmoodhussain"]
+[Black "Hagge"]
+[Result "*"]
+[Termination "in progress"]
+[Mode "ICS"]
+[DateLastMove "2015.8.1"]
+[Board "9864722"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5 h6 5.Bh4 c5 6.a3 Bxc3+ 7.bxc3 O-O 8.Nf3 
+d6 9.e3 Nbd7 10.Bd3 cxd4 11.cxd4 Rb8 12.O-O a6 13.e4 b5 14.e5 dxe5 15.dxe5
+g5 16.Bg3 Nh5 *
+

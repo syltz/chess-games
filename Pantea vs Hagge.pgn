@@ -1,0 +1,20 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2015.07.26"]
+[Round "NA"]
+[White "Pantea"]
+[Black "Hagge"]
+[Result "*"]
+[Termination "in progress"]
+[Mode "ICS"]
+[DateLastMove "2015.7.31"]
+[Board "9864677"]
+
+1.c4 Nf6 2.Nc3 e6 3.d4 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.bxc3 c5 7.Nf3 d6 8.Bg5 
+Bd7 9.e4 Qa5 10.Bxf6 gxf6 11.Nd2 Nc6 12.d5 Ne5 13.Be2 b5 14.cxb5 Bxb5 15.
+c4 
+    ( 15.Bxb5 Qxb5 )
+15...Ba4 16.Qa2 Rab8 17.O-O Ng6 
+    ( 17...Bb3 )
+18.Rab1 Nf4 *
+
