@@ -27,5 +27,9 @@ O-O Bg4 16.Nb5 Qd7 17.h3 Bxh3 18.gxh3 Qxh3 19.Bf4 Ng4 20.Nf5
     ( 22.Rfe1 Nf3# )
     ( 22.Nbd4 Nxf1 23.Rxf1 Bxf4 24.Qxf4 )
 22...Nxf3+ 23.Rxf3 Qxf3 24.Bxg5 Qxf5 25.Rf1 Qg4+ 26.Qg2 Qxg2+ 27.Kxg2 f6 
-28.Bd2 Rfd8 *
+28.Bd2 Rfd8 29.Bc3 d2 30.Rd1 Kf7 
+    ( 30...g5 )
+31.Rxd2 
+    ( 31.Bxd2 Rac8 32.Na3 h5 )
+31...Rxd2+ 32.Bxd2 Rd8 *
 

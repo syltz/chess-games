@@ -1,0 +1,15 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2015.07.26"]
+[Round "NA"]
+[White "donnick"]
+[Black "Hagge"]
+[Result "*"]
+[Termination "in progress"]
+[Mode "ICS"]
+[DateLastMove "2015.8.4"]
+[Board "9864713"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 d6 4.Bb5 Bd7 5.d3 Nf6 6.Bg5 a6 7.Bxf6 exf6 8.Bxc6 
+Bxc6 9.d4 Be7 10.dxc5 dxc5 11.Qxd8+ Rxd8 *
+
