@@ -10,9 +10,12 @@
 [DateLastMove "2015.7.29"]
 [Board "9864704"]
 
-1.a4 e5 2.Na3 d5 3.e3 c5 4.d4 cxd4 5.exd4 e4 6.c4 Nf6 7.Bd2 Be7 8.Ne2 O-O 
-9.Ng3 Nc6 10.cxd5 Qxd5 11.Bc4 Qxd4 12.Qc1 Ne5 13.Be2 Nd3+ 14.Bxd3 exd3 15.
-O-O Bg4 16.Nb5 Qd7 17.h3 Bxh3 18.gxh3 Qxh3 19.Bf4 Ng4 20.Nf5 
+1.a4 e5 2.Na3 
+    {I mean this guy is obviously better than me but what the hell is this
+    opening?}
+2...d5 3.e3 c5 4.d4 cxd4 5.exd4 e4 6.c4 Nf6 7.Bd2 Be7 8.Ne2 O-O 9.Ng3 Nc6 
+10.cxd5 Qxd5 11.Bc4 Qxd4 12.Qc1 Ne5 13.Be2 Nd3+ 14.Bxd3 exd3 15.O-O Bg4 
+16.Nb5 Qd7 17.h3 Bxh3 18.gxh3 Qxh3 19.Bf4 Ng4 20.Nf5 
     ( 20.Nf5 Bg5 21.Bxg5 
         ( 21.Qe3 
             ( 21.Qc3 Bxf4 )
@@ -33,5 +36,7 @@ O-O Bg4 16.Nb5 Qd7 17.h3 Bxh3 18.gxh3 Qxh3 19.Bf4 Ng4 20.Nf5
     ( 31.Bxd2 Rac8 32.Na3 h5 )
 31...Rxd2+ 32.Bxd2 a6 
     ( 32...Rd8 )
+33.Nd4 Rd8 34.Bc3 g5 
+    {I feel like I should just be able to push the pawns on the kingside.}
 *
 

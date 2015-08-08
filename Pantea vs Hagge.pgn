@@ -18,5 +18,16 @@ c4
     ( 17...Bb3 )
 18.f4 
     ( 18.Rab1 Nf4 )
-18...Ne7 19.Rf3 f5 *
+18...Ne7 19.Rf3 f5 20.Raf1 
+    {I have no idea what's going on or what I was planning to do. I should
+    have started taking notes earlier.}
+20...exd5 
+    ( 20...fxe4 21.Nxe4 Nf5 22.Rh3 {This seems dangerous but I'm not sure.
+    I don't think I want to play this.} 
+        ( 22.dxe6 fxe6 {This seems ok but it's doubtful that my opponent 
+        will comply.} )
+    )
+21.cxd5 
+    {I guess exd5 is possible as well but why would he?}
+*
 
