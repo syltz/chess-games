@@ -22,7 +22,11 @@
 11...Bc6 12.Ngf3 
     ( 12.Qxa7 Bxg2 13.Rh2 )
 12...Bxa8 13.Bxb5 Bf4 14.O-O Bxd2 15.Nxd2 Bxg2 16.Kxg2 Qg5+ 17.Kh2 Qxd2 
-18.b3 Qxc3 19.Bc4 Nc6 
-    ( 19...a6 20.Rac1 Qd4 )
+18.b3 Qxc3 19.Bc4 a6 
+    {I might be trapping the bishop here, d5 coming up}
+    ( 19...Nc6 )
+20.Rac1 Qd4 
+    {Just avoiding the threat, central square and can't seemingly be 
+    attacked.}
 *
 

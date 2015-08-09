@@ -24,9 +24,17 @@
 19...b5 20.Nce2 
     {Bring more pieces to the kingside, not sure how to break through yet 
     though. Not sure how dangerous blacks counterattack is.}
-20...b4 21.b3 
-    ( 21.Nc1 {Not sure if this is better than b3, on the one hand it seems
-    better defensively but it's not the reason I moved the knight there in
-    the first place. I will think about this.} )
+20...Bd7 
+    {I forgot about this move but I'm not sure that it poses an immediate 
+    threat but it is a nice square for the bishop.}
+    ( 20...b4 21.b3 
+        ( 21.Nc1 {Not sure if this is better than b3, on the one hand it 
+        seems better defensively but it's not the reason I moved the 
+        knight there in the first place. I will think about this.} )
+    )
+21.Qg2 
+    {Queen on the h-file doesn't seem right, at some point I might want to
+    double rooks. Is Qf2 better? I don't really know if it matters that 
+    much.}
 *
 
