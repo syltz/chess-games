@@ -14,7 +14,10 @@
 dxc4 9.a3 Bxc3+ 10.Qxc3 a5 11.O-O a4 12.Qxc4 O-O 13.Bxc6 
     ( 13.Bd2 )
 13...bxc6 14.Qxc6 Ne8 15.Bd2 
-    {  Develops my last piece and potentially threatening the black rook 
-    on f8.}
+    {Develops my last piece and potentially threatening the black rook on 
+    f8.}
+15...Qc8 16.Bb4 
+    {Attacks the rook on f8 and my bishop is no longer stuck behind my own
+    pawns.}
 *
 

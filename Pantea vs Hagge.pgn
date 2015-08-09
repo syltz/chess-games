@@ -33,5 +33,19 @@ c4
 21...fxe4 
     {Breaking up the three advanced pawns and undoubling my own pawns seem
     decent but the white knight on e4 seems really strong.}
+22.Nxe4 Nf5 
+    {Defending d6 with the queen seems like it will get me check mated, 
+    something you generally want to avoid in chess. Will this also get me 
+    mated?}
+    ( 22...Qc7 {Defending d6} 23.Nf6+ Kh8 
+        ( 23...Kg7 24.Qa1 Ng6 25.Rh3 {This seems really dangerous.} 25...
+        Rh8 26.Ne8+ Kf8 27.Qxh8+ )
+    24.Rh3 {Am I getting check mated here?} )
+    ( 22...Qd8 23.Nf6+ Kh8 24.Rh3 {I feel like this might also get me 
+    check mated.} )
+23.Nf6+ Kg7 
+    ( 23...Kh8 24.Rh3 {This seems dangerous. Corners are bad for kings.} )
+24.Qa1 Nd4 25.Ne4 
+    {Sweet, this might actually not get me mated.}
 *
 

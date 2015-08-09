@@ -1,27 +1,36 @@
 [Event "www.ChessWorld.net server game"]
-    [Site "www.ChessWorld.net "]
-    [Date "2015.07.26"]
-    [Round "NA"]
-    [White "Hagge"]
-    [Black "nickbarletta"]
-    [Result "*"]
-    [ECO "D85"]
-    [Termination "in progress"]
-    [Mode "ICS"]
-    [DateLastMove "2015.8.1"]
-    [Board "9864751"]
-    
-    1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.Nf3 Bg4 8.
-    Be2 Bg7 9.Be3 Nc6 10.e5 cxd4 11.cxd4 O-O 12.O-O Rc8 13.h3 Bxf3 14.Bxf3
-    Qa5 15.Qb3 
-        ( 15.Qd2 )
-    15...Rfd8 16.Qxb7 Rc7 
-        ( 16...Nxd4 17.Bxd4 Rxd4 18.Qxc8+ Rd8 )
-        ( 16...Rb8 17.Qxc6 )
-    17.Qb2 
-        ( 17.Qb3 Nxd4 18.Bxd4 Rxd4 )
-    17...Nxd4 
-        ( 17...Rb8 18.Qd2 Qxd2 19.Bxd2 {Is this really good?  Think about 
-        it.} )
-    18.Bxd4 Rxd4 19.Qxd4 *
-    
+[Site "www.ChessWorld.net "]
+[Date "2015.07.26"]
+[Round "NA"]
+[White "Hagge"]
+[Black "nickbarletta"]
+[Result "*"]
+[ECO "D85"]
+[Termination "in progress"]
+[Mode "ICS"]
+[DateLastMove "2015.8.1"]
+[Board "9864751"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.Nf3 Bg4 8.Be2 
+Bg7 9.Be3 Nc6 10.e5 cxd4 11.cxd4 O-O 12.O-O Rc8 13.h3 Bxf3 14.Bxf3 Qa5 15.
+Qb3 
+    ( 15.Qd2 )
+15...Rfd8 16.Qxb7 Rc7 
+    ( 16...Nxd4 17.Bxd4 Rxd4 18.Qxc8+ Rd8 )
+    ( 16...Rb8 17.Qxc6 )
+17.Qb2 
+    ( 17.Qb3 Nxd4 18.Bxd4 Rxd4 )
+17...Rb8 
+    ( 17...Nxd4 18.Bxd4 Rxd4 19.Qxd4 )
+18.Qe2 
+    {So this avoids trading queens and avoids the discovered attack on the
+    c-file.}
+    ( 18.Qd2 Qxd2 19.Bxd2 {Is this really good? Think about it. I thought 
+    about it and I don't see a reason to trade queens so let's not do 
+    that.} )
+    ( 18.Qc2 Nxd4 {Rook attacking the queen, seems like I give up a 
+    central pawn for nothing.} )
+18...Qa3 
+    ( 18...Nxd4 19.Bxd4 Bxe5 20.Qxe5 {This is a silly variation} )
+19.Rfd1 Rb2 20.Rd2 Rxd2 21.Qxd2 *
+

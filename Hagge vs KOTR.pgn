@@ -28,15 +28,18 @@
     {Ok so the plan is to break open the king position and to potentially 
     get a passed pawn on the d-file.}
     ( 21.c5 bxc5 22.dxc5 {This doesn't seem nearly as dangerous as d5.} )
-21...exd5 
-    ( 21...cxd5 22.cxd5 exd5 23.Bxd5 {This seems really good for me, black
-    king is exposed and can't really retreat anywhere.} )
+21...cxd5 
+    ( 21...exd5 22.cxd5 c5 {This might be the best variation.} 
+        ( 22...cxd5 23.Bxd5 Nc6 24.Be5+ Kb7 {This seems good but maybe the
+        king can find safety?} )
+    23.Be5+ Kb7 24.d6 Nc6 )
     ( 21...c5 22.dxe6 Bc6 23.e7 {This seems good, not sure how the pawn is
     stopped.} )
     ( 21...e5 22.Bxe5+ Kc8 23.dxc6 Nxc6 24.Rfd1 )
-22.cxd5 c5 
-    {This might be the best variation.}
-    ( 22...cxd5 23.Bxd5 Nc6 24.Be5+ Kb7 {This seems good but maybe the 
-    king can find safety?} )
-23.Be5+ Kb7 24.d6 Nc6 *
+22.cxd5 exd5 
+    ( 22...e5 23.Bxe5+ Kb7 )
+23.Bxd5 
+    {This seems really good for me, black king is exposed and can't really
+    retreat anywhere.}
+*
 
